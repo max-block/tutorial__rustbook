@@ -1,0 +1,24 @@
+1) ahead-of-time compilation vs just-in-time compilation
+
+2) How to prounonce Rustaceans?
+
+3) Where Cargo stores all external dependendencies on the disk?
+
+4) Binding vs Assignment? Is there any difference between C and Rust?
+C: int a = 1; Rust: let a = 1;
+error[E0384]: cannot assign twice to immutable variable `x`
+
+5) What is "Blanket implementations"?
+
+6) Why it's necessary to import a trate?
+use rand::Rng; <-- Why do we neet it?
+let secret_number = rand::thread_rng().gen_range(1, 101);
+
+7) Match expressions id made up of arms. Why arms, what's the reason of such a name?
+
+8) Which vscode extensions for Rust to use?
+
+9) What is the difference between .inter() and .into_iter()?
+
+
+SOLVED: 
