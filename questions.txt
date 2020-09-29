@@ -20,5 +20,9 @@ let secret_number = rand::thread_rng().gen_range(1, 101);
 
 9) What is the difference between .inter() and .into_iter()?
 
+10) Why the compiler can coerce &String to &str?
+
+11) How to catch panic!?
+
 
 SOLVED: 
