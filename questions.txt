@@ -35,5 +35,7 @@ impl<'a> ImportantExcerpt<'a> {
 
 14) What is a trait object?
 
+15) What is an associated type?
+
 
 SOLVED: 
