@@ -1,0 +1,3 @@
+* Every reference has a lifetime. Lifetime is for references only.
+* Borrow checker. Borrow, not just a variable!
+* All references are valid, the compiler guarantees that.

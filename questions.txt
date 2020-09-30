@@ -24,5 +24,16 @@ let secret_number = rand::thread_rng().gen_range(1, 101);
 
 11) How to catch panic!?
 
+12) What's about multiple lifetime parameters for a struct?
+
+13)'a -?
+impl<'a> ImportantExcerpt<'a> {
+    fn level(&self) -> i32 {
+        3
+    }
+}
+
+14) What is a trait object?
+
 
 SOLVED: 
