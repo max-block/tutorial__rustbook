@@ -1,4 +1,8 @@
 https://doc.rust-lang.org/book/
 
 
-https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#exporting-a-convenient-public-api-with-pub-use
+https://doc.rust-lang.org/book/ch19-05-advanced-functions-and-closures.html
+
+
+
+https://doc.rust-lang.org/book/ch15-06-reference-cycles.html

@@ -37,5 +37,19 @@ impl<'a> ImportantExcerpt<'a> {
 
 15) What is an associated type?
 
+16) What is a Deref coercion?
+
+17) What is the interior mutability pattern?
+
+18) Use cases for Rc<T>
+
+19) Use cases for RefCell<T>
+
+20) Can we use `dyn` without Box?
+
+21) References vs raw pointers?
+
+
+
 
 SOLVED: 
