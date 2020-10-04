@@ -49,7 +49,6 @@ impl<'a> ImportantExcerpt<'a> {
 
 21) References vs raw pointers?
 
+22) What is `extern crate`?
 
-
-
-SOLVED: 
+23) A keyword 'ref'?
