@@ -1,5 +1,0 @@
-* Every reference has a lifetime. Lifetime is for references only.
-* Borrow checker. Borrow, not just a variable!
-* All references are valid, the compiler guarantees that.
-* A smart pointer is a struct which implements Deref and Drop traits.
-* RefCel<T> is for situactions, when we (humans) garantee the borrowing rules (1 mut or many immut), but not the compiler.
